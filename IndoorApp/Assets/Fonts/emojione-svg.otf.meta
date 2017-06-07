@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d8d784ed04947ed4da1dc1e54c15f3b7
+timeCreated: 1495505602
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: EmojiOne
+  fontNames:
+  - EmojiOne
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

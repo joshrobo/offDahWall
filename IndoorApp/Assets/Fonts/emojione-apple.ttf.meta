@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2cb48f4aee809804c9eb86d06dc8b47b
+timeCreated: 1495489080
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Apple Color Emoji
+  fontNames:
+  - Apple Color Emoji
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
